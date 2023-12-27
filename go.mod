@@ -1,4 +1,4 @@
-module github.com/nginxinc/kubernetes-ingress/v3
+module github.com/jjngx/kubernetes-ingress/v3
 
 go 1.21.3
 

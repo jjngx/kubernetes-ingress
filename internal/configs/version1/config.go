@@ -1,6 +1,6 @@
 package version1
 
-import "github.com/nginxinc/kubernetes-ingress/internal/nginx"
+import "github.com/nginxinc/kubernetes-ingress/v3/internal/nginx"
 
 // UpstreamLabels describes the Prometheus labels for an NGINX upstream.
 type UpstreamLabels struct {

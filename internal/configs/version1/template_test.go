@@ -6,7 +6,7 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/nginxinc/kubernetes-ingress/internal/nginx"
+	"github.com/nginxinc/kubernetes-ingress/v3/internal/nginx"
 )
 
 func TestExecuteMainTemplateForNGINXPlus(t *testing.T) {

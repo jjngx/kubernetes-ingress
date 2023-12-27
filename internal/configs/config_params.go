@@ -1,8 +1,8 @@
 package configs
 
 import (
-	"github.com/nginxinc/kubernetes-ingress/internal/nginx"
-	conf_v1 "github.com/nginxinc/kubernetes-ingress/pkg/apis/configuration/v1"
+	"github.com/nginxinc/kubernetes-ingress/v3/internal/nginx"
+	conf_v1 "github.com/nginxinc/kubernetes-ingress/v3/pkg/apis/configuration/v1"
 )
 
 // ConfigParams holds NGINX configuration parameters that affect the main NGINX config

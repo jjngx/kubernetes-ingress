@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 	"github.com/google/go-cmp/cmp"
-	"github.com/nginxinc/kubernetes-ingress/internal/healthcheck"
+	"github.com/nginxinc/kubernetes-ingress/v3/internal/healthcheck"
 	"github.com/nginxinc/nginx-plus-go-client/client"
 )
 
